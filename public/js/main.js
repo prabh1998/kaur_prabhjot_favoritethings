@@ -17,7 +17,7 @@ const myVM = (() => {
             targetImg = lightbox.querySelector('img');
 
         let bioContent = `
-            <p>${person.Description}<p>
+            <p>${person.DESCRIPTION}<p>
             <h4><h4> 
             
         
